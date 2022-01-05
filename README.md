@@ -1,6 +1,11 @@
 # Welcome to the Moose-Tracks Repository!
 ## Below are a handful of projects that I am working on
 
+- Business Ideas
+- Hello World Java
+- Pigy
+- huntersHTML
+
 
 - 👋 Hi, I’m @Moose-Tracks
 - 👀 I’m interested in creating dynamic full-stack content, focusing highly on datastructures and datastorage solutions
