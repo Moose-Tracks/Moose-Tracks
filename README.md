@@ -8,7 +8,7 @@
   
 🌱 I’m currently learning Java Script and algorythms in Python  
   
-💞️ I’m looking to collaborate on my public repository for a airplain wing simulator: Airply  
+💞️ I’m looking to collaborate on my public repository for an airplane wing simulator: Airply  
   
 
 ## Below are a handful of projects that I am working on
