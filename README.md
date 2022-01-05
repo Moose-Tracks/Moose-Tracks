@@ -1,17 +1,24 @@
-- 👋 Hi, I’m @Moose-Tracks
-- 👀 I’m interested in creating dynamic full-stack content, focusing highly on datastructures and datastorage solutions
-- 🌱 I’m currently learning Java Script and algorythms in Python
-- 💞️ I’m looking to collaborate on my public repository for a airplain wing simulator: Airply
+
 
 # Welcome to the Moose-Tracks Repository!
+
+👋 Hi, I’m @Moose-Tracks  
+  
+👀 I’m interested in creating dynamic full-stack content, focusing highly on datastructures and datastorage solutions  
+  
+🌱 I’m currently learning Java Script and algorythms in Python  
+  
+💞️ I’m looking to collaborate on my public repository for a airplain wing simulator: Airply  
+  
+
 ## Below are a handful of projects that I am working on
 
 
 
-- [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/) 
-- [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/) 
-- [Pigy](https://github.com/Moose-Tracks/Pigy/)
-- [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  
+- [**Business Ideas**](https://github.com/Moose-Tracks/BusinessIdeas/) 
+- [**Hello World Java**](https://github.com/Moose-Tracks/HelloWorldJava/) 
+- [**Pigy**](https://github.com/Moose-Tracks/Pigy/)
+- [**First HTML**](https://github.com/Moose-Tracks/huntersHTML/)  
 
 
 <!---
