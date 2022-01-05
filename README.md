@@ -8,12 +8,6 @@
 | [Pigy](https://github.com/Moose-Tracks/Pigy/)  | Content Cell  |
 | [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  | Content Cell  |
 
-- [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/)
-- [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/)
-- [Pigy](https://github.com/Moose-Tracks/Pigy/)
-- [First HTML](https://github.com/Moose-Tracks/huntersHTML/)
-
-
 - 👋 Hi, I’m @Moose-Tracks
 - 👀 I’m interested in creating dynamic full-stack content, focusing highly on datastructures and datastorage solutions
 - 🌱 I’m currently learning Java Script and algorythms in Python
