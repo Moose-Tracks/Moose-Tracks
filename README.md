@@ -3,8 +3,8 @@
 
 - [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/)
 - [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/)
-- [Pigy](https://pages.github.com/)
-- [First HTML](https://pages.github.com/)
+- [Pigy](https://github.com/Moose-Tracks/Pigy/)
+- [First HTML](https://github.com/Moose-Tracks/huntersHTML/)
 
 
 - 👋 Hi, I’m @Moose-Tracks
