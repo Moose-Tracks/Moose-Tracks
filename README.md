@@ -2,7 +2,7 @@
 ## Below are a handful of projects that I am working on
 
 - [Business Ideas](https://pages.github.com/)
-- [Hello World Java](https://pages.github.com/)
+- [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/)
 - [Pigy](https://pages.github.com/)
 - [First HTML](https://pages.github.com/)
 
