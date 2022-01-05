@@ -1,10 +1,10 @@
 # Welcome to the Moose-Tracks Repository!
 ## Below are a handful of projects that I am working on
 
-- Business Ideas
-- Hello World Java
-- Pigy
-- huntersHTML
+- [Business Ideas](https://pages.github.com/)
+- [Hello World Java](https://pages.github.com/)
+- [Pigy](https://pages.github.com/)
+- [First HTML](https://pages.github.com/)
 
 
 - 👋 Hi, I’m @Moose-Tracks
