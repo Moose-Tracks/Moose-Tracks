@@ -1,12 +1,12 @@
 # Welcome to the Moose-Tracks Repository!
 ## Below are a handful of projects that I am working on
 
-| Projects  | Last Edited |
-| ------------- | ------------- |
-| [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/)  | Content Cell  |
-| [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/)  | Content Cell  |
-| [Pigy](https://github.com/Moose-Tracks/Pigy/)  | Content Cell  |
-| [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  | Content Cell  |
+| Projects  |
+| ------------- |
+| [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/) |
+| [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/) |
+| [Pigy](https://github.com/Moose-Tracks/Pigy/) |
+| [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  |
 
 - 👋 Hi, I’m @Moose-Tracks
 - 👀 I’m interested in creating dynamic full-stack content, focusing highly on datastructures and datastorage solutions
