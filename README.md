@@ -7,12 +7,11 @@
 ## Below are a handful of projects that I am working on
 
 
-| Projects  |
-| ------------- |
-| [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/) |
-| [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/) |
-| [Pigy](https://github.com/Moose-Tracks/Pigy/) |
-| [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  |
+
+- [Business Ideas](https://github.com/Moose-Tracks/BusinessIdeas/) 
+- [Hello World Java](https://github.com/Moose-Tracks/HelloWorldJava/) 
+- [Pigy](https://github.com/Moose-Tracks/Pigy/)
+- [First HTML](https://github.com/Moose-Tracks/huntersHTML/)  
 
 
 <!---
